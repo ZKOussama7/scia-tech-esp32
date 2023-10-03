@@ -1,9 +1,9 @@
 /*
- Name:		Sciatech_ESP.ino
- Created:	8/8/2023 2:28:20 PM
- Author:	ODC_SSS
+ Name:		Insole.ino
+ Created:	22/09/2023 18:16:09 
+ Author:	ZKO7
 */
-not required anymore.
+
 // the setup function runs once when you press reset or power the board
 void setup() {
 

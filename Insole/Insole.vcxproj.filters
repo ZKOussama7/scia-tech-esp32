@@ -20,16 +20,19 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sciatech_ESP.ino" />
-    <ClCompile Include="Sciatech_ESP.cpp">
+    <ClCompile Include="Insole.ino" />
+    <ClCompile Include="Insole.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Essentials.h">
+    <ClInclude Include="__vm\.Insole.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="__vm\.Sciatech_ESP.vsarduino.h">
+    <ClInclude Include="..\..\..\ESP32\Sciatech_ESP\Sciatech_ESP\secrets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\ESP32\Sciatech_ESP\Sciatech_ESP\Essentials.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
